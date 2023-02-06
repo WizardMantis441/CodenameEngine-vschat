@@ -144,6 +144,7 @@
 	<haxelib name="away3d" />
 	<haxelib name="format" />
 	<haxelib name="flxanimate" />
+    <haxelib name="hxTwitch" />
 
 	<haxelib name="flixel-yc29" rename="flixel" />
 	<haxedev set='webgl' />
