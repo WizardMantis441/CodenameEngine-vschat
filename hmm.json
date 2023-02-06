@@ -67,6 +67,11 @@
       "name": "openfl",
       "type": "haxelib",
       "version": null
+    },
+    {
+      "name": "hxTwitch",
+      "type": "haxelib",
+      "version": "5.0.0"
     }
   ]
 }
