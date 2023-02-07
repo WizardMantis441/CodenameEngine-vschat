@@ -1,5 +1,17 @@
-# Twitch Chat Addons
-- `haxelib install hxTwitch`
+# STREAMER VS CHAT CODENAME EXTENSION
+Codename Engine branch that adds a twitch chat system, including a built in chat in-game.
+- This Branch was made for Twitch, but may expand to YouTube.
+- This includes the Codename Engine Mods Folder, so any mod can be played with!
+    - No, Psych mods are not Codename mods.
+- If you plan on using this mod, make sure to give credits, and if you want, @ us on twitter, we would most likely also watch the stream.
+
+Made by [WizardMantis](https://twitter.com/WizardMantis441), [Raf](https://twitter.com/RafGamign), [Srt](https://twitter.com/SrtPro278), & [Sixty5Notch](https://twitter.com/Sixty5Notch).
+
+## VS CHAT INSTRUCTIONS
+
+- todo bc i wanna get this accurate. lmk when i can raf or if u wanna
+
+Alright, everything under here is for the original engine, so this ends the tutorial. Have fun!
 
 # Friday Night Funkin' - Codename Engine (WIP)
 
