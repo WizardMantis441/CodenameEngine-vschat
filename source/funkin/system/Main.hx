@@ -25,6 +25,7 @@ import flixel.addons.transition.TransitionData;
 import flixel.math.FlxPoint;
 import flixel.math.FlxRect;
 import lime.app.Application;
+import twitch.Client;
 
 #if ALLOW_MULTITHREADING
 import sys.thread.Thread;
